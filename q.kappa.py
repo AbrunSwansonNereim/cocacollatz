@@ -5,7 +5,7 @@ import sys
 from math import cos, sin, fabs
 from fractions import Fraction
 
-### Evalutes kappa( a/b )
+### Evalutes kappa( a/b ) ( b should be a power of 2 )
 ### Usage :
 ### ./q.kappa.py a b
 
